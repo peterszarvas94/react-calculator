@@ -150,7 +150,7 @@ function App() {
           peterszarvas.hu
         </a>
         <a
-          href="https://github.com/peterszarvas94/calculator"
+          href="https://github.com/peterszarvas94/react-calculator"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:underline flex items-center justify-start gap-1"
