@@ -1,6 +1,6 @@
-# Calculator
+# React calculator
 
-Simple calculator, unsing Express.js as the backend, and React as the frontend.
+Simple calculator, with basic operation.
 
 ![Screenshot](https://github.com/peterszarvas94/react-calculator/blob/main/screenshot.png)
 
